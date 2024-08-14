@@ -9,12 +9,12 @@ API key from VirusTotal. (You can obtain an API key by creating an account on th
 
 Setup
 Clone the repository to your local machine or download the source code.
+git clone https://github.com/Sajuwithgithub/URLScan
 
-git clone https://github.com/Weyaxi/virustotal-uploader/
 Navigate to the appropriate directory by executing the following command:
+cd URLScan
 
-cd virustotal-uploader
 Install the required dependencies by running the following command:
-
 pip3 install -r requirements.txt
-Open the "main.py" file in a text editor and replace the api_key variable with your own VirusTotal API key.
+
+Open the ".py" file in a text editor and replace the api_key variable with your own VirusTotal API key.
