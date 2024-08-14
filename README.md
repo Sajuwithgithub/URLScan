@@ -3,11 +3,11 @@ Virustotal URL Lookup from a file
 This program allows you to send files to VirusTotal for analysis quickly. Integrating with the VirusTotal API allows you to conveniently submit files and receive analysis results directly from your computer.
 
 **Prerequisties**
-Python3
-Libraries from requirements.txt
-API key from VirusTotal. (You can obtain an API key by creating an account on the VirusTotal website. See the image below.)
+1. Python3
+2. Libraries from requirements.txt.
+3. API key from VirusTotal. (You can obtain an API key by creating an account on the VirusTotal website. See the image below.)
 
-Setup
+**Setup**
 Clone the repository to your local machine or download the source code.
 git clone https://github.com/Sajuwithgithub/URLScan
 
