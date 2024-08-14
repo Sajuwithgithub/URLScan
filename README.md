@@ -1,4 +1,4 @@
-# URLScan
+# Virust Total URLScan
 Virustotal URL Lookup from a file
 This program allows you to send files to VirusTotal for analysis quickly. Integrating with the VirusTotal API allows you to conveniently submit files and receive analysis results directly from your computer.
 
